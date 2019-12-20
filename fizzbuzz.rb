@@ -11,7 +11,3 @@ def fizzbuzz(number)
     return nil
   end
 end
-
-number % 3 == 0 && number % 5 != 0
-number % 5 == 0 && number % 3 != 0
-number % 3 == 0 && number % 5 == 0
